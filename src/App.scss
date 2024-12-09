@@ -1,0 +1,18 @@
+.container {
+  width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+  display: flex;
+  margin-bottom: 100px;
+  
+  .filters {
+    width: 20%;
+    height: 100vh;
+    background: white;
+  }
+  .productListWrapper {
+    width: 80%;
+    height: 100vh;
+    padding: 25px;
+  }
+}

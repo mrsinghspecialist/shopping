@@ -1,0 +1,13 @@
+.filterWrapper {
+  padding: 20px;
+
+  .categoriesWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
+.starRating {
+  width: 110px !important;
+}
